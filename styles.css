@@ -20,3 +20,8 @@ h1{
 #barra{
     transition: 2s;
 }
+#barra:hover{
+    background-color: rgba(0, 0, 0, 0.179);
+    transition: 2s;
+    backdrop-filter: blur(10px);
+}
