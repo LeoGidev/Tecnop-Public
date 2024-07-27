@@ -6,12 +6,11 @@ body{
     background-position: center top;
     overflow-x: hidden !important;
     
+    
 }
-
-html {
-    overflow-x: hidden !important;
-}
-
+  html {
+      overflow-x: hidden !important;
+  }
 h1{
     color: white;
     font-family:'Blinker', sans-serif; ;
@@ -20,6 +19,7 @@ h1{
 #barra{
     transition: 2s;
 }
+
 #barra:hover{
     background-color: rgba(0, 0, 0, 0.179);
     transition: 2s;
@@ -45,4 +45,8 @@ h1{
 }
 #barra.barra-scroll button{
     background-color: rgb(37, 37, 37);
+}
+/*Principal*/
+#principal{
+    margin-top:80px !important;
 }
