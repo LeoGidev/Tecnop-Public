@@ -40,3 +40,9 @@ h1{
     
     transition: background-color 2s, color 2s;
 }
+#barra.barra-scroll a{
+    color: black !important;
+}
+#barra.barra-scroll button{
+    background-color: rgb(37, 37, 37);
+}
