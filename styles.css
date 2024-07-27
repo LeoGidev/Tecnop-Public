@@ -25,3 +25,8 @@ h1{
     transition: 2s;
     backdrop-filter: blur(10px);
 }
+
+#barra a{
+    color:white !important;
+    transition: 2s;
+}
