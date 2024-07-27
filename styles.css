@@ -50,3 +50,11 @@ h1{
 #principal{
     margin-top:80px !important;
 }
+/*contenido*/
+.cartel{
+height: 600px;
+backdrop-filter: blur(10px);
+box-shadow: 2px 2px 2px black;
+border-radius: 10px;
+overflow: hidden;
+}
