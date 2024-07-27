@@ -30,3 +30,13 @@ h1{
     color:white !important;
     transition: 2s;
 }
+#barra a:hover{
+    color: rgb(216, 192, 255);
+}
+
+/* Estilo cuando el usuario hace scroll */
+#barra.barra-scroll {
+    background-color: white;
+    
+    transition: background-color 2s, color 2s;
+}
