@@ -11,3 +11,8 @@ body{
 html {
     overflow-x: hidden !important;
 }
+
+h1{
+    color: white;
+    font-family:'Blinker', sans-serif; ;
+}
