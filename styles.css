@@ -88,3 +88,21 @@ width: 100%;
     font-family: 'Blinker', sans-serif;
 
 }
+
+
+/*banner carteles*/
+
+#led{
+    position: absolute;
+    top: 0%;
+    padding: 10px; 
+    backdrop-filter: blur(80px);
+    border-radius: 12px;
+    overflow: hidden;
+    transform: rotateX(360deg);
+    animation: ruleta1 20s linear infinite;
+    animation-delay: 0s;
+    opacity: 0;
+    
+   
+}
