@@ -106,3 +106,20 @@ width: 100%;
     
    
 }
+
+
+/*banner gadgetes*/
+
+#Gadgets{
+    position: absolute;
+      top: 0%;
+      padding: 10px; 
+    backdrop-filter: blur(80px);
+    border-radius: 12px;
+    overflow: hidden;
+    transform: rotateX(360deg);
+    animation: ruleta1 20s linear infinite;
+    animation-delay: 5s;
+    opacity: 0;
+    
+}
