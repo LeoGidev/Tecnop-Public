@@ -123,3 +123,20 @@ width: 100%;
     opacity: 0;
     
 }
+
+
+
+/*Banner 3D3d*/
+    #D3{
+        position: absolute;
+      top: 0%;
+      padding: 10px; 
+        backdrop-filter: blur(80px);
+        border-radius: 12px;
+        overflow: hidden;
+        transform: rotateX(360deg);
+        animation: ruleta1 20s linear infinite;
+        animation-delay: 10s;
+        opacity: 0;
+        
+    }
