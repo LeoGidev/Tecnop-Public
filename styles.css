@@ -72,3 +72,14 @@ overflow: hidden;
 .imagen-banner{
 width: 100%;
 }
+
+
+/*seccion de info*/
+.info{
+    overflow: hidden;
+    position: relative;
+    /*border: 10px solid white;*/
+    height: 300px;
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+    
+}
