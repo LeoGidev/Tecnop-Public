@@ -58,3 +58,17 @@ box-shadow: 2px 2px 2px black;
 border-radius: 10px;
 overflow: hidden;
 }
+.info h2{
+    color: white;
+    font-family: 'Blinker', sans-serif;
+    border-bottom: 1px solid white;
+    font-size: 30px;
+}
+.cartel p{
+    color:white;
+    font-family: 'Blinker', sans-serif;;
+}
+
+.imagen-banner{
+width: 100%;
+}
